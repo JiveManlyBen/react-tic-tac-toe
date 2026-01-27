@@ -121,3 +121,7 @@ ul {
   flex: auto;
   margin-left: 20px;
 }
+
+.winner {
+  color: red;
+}
