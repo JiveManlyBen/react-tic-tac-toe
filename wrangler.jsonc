@@ -1,0 +1,6 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "react-tic-tac-toe",
+  "compatibility_date": "2026-01-27",
+  "main": "./public"
+}
